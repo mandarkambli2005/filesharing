@@ -21,7 +21,7 @@ SECRET_KEY = 'django-insecure-^_+axf&-d%ztaixl97l@a*q58w!dr&^)!9n&sqic&x9^18ot#k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True  # Set to False in production
 
-ALLOWED_HOSTS = ['your-render-domain.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['gurupremcomplex.onrender.com', 'localhost', '127.0.0.1']
 # Replace 'your-render-domain.onrender.com' with your actual Render URL
 
 # Application definition
